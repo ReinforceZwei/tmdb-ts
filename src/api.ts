@@ -1,4 +1,3 @@
-import fetch from 'cross-fetch';
 import { parseOptions } from './utils';
 import { ErrorResponse } from './types';
 import { BASE_URL_V3 } from './common/constants';
